@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\bin\Debug\ColorSorting_Services.dll
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\bin\Debug\ColorSorting_Services.pdb
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\bin\Debug\ColorSorting_API.dll
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\bin\Debug\ColorSorting_API.pdb
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\obj\Debug\ColorSorting_Services.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\obj\Debug\ColorSorting_Services.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\obj\Debug\ColorSorting_Services.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\obj\Debug\ColorSorting_Services.dll
+C:\Users\lenovo\source\repos\Tecan_ColorSorting_FadyAmir\ColorSorting_Services\obj\Debug\ColorSorting_Services.pdb

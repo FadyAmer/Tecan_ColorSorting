@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSorting_UI", "ColorSorting_UI\ColorSorting_UI.csproj", "{594881A7-CD25-4DA1-8A4D-A30F5E8D1306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSorting_Services", "ColorSorting_Services\ColorSorting_Services.csproj", "{22DE3983-FA53-47E7-84DD-AA1C590F660D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSorting_API", "ColorSorting_API\ColorSorting_API.csproj", "{735EEFBE-CE1D-490E-89DE-FEDF4D1BDE99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSorting_Test", "ColorSorting_Test\ColorSorting_Test.csproj", "{1DC7E0E6-0B76-48A5-A0CC-6F4F1D8056F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594881A7-CD25-4DA1-8A4D-A30F5E8D1306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594881A7-CD25-4DA1-8A4D-A30F5E8D1306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594881A7-CD25-4DA1-8A4D-A30F5E8D1306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594881A7-CD25-4DA1-8A4D-A30F5E8D1306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DE3983-FA53-47E7-84DD-AA1C590F660D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DE3983-FA53-47E7-84DD-AA1C590F660D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DE3983-FA53-47E7-84DD-AA1C590F660D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DE3983-FA53-47E7-84DD-AA1C590F660D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735EEFBE-CE1D-490E-89DE-FEDF4D1BDE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735EEFBE-CE1D-490E-89DE-FEDF4D1BDE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735EEFBE-CE1D-490E-89DE-FEDF4D1BDE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735EEFBE-CE1D-490E-89DE-FEDF4D1BDE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC7E0E6-0B76-48A5-A0CC-6F4F1D8056F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC7E0E6-0B76-48A5-A0CC-6F4F1D8056F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC7E0E6-0B76-48A5-A0CC-6F4F1D8056F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC7E0E6-0B76-48A5-A0CC-6F4F1D8056F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6302FB52-295C-4B15-A2D1-A1CD87952D89}
+	EndGlobalSection
+EndGlobal
